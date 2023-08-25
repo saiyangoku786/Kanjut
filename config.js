@@ -105,8 +105,8 @@ global.xteamkey = 'NezukoTachibana281207'
 /*Number*/
 global.nomorbot = '6283125701141'
 global.nomorown = '6281349277979' 
-global.namebot = '𝗗𝗮𝗽𝗮-𝗕𝗢𝗧𝗭'
-global.nameown = '「𝘿𝙖𝙥𝙖 𝙈𝙖𝙠𝙚𝙧」'
+global.namebot = 'GOKU-BOT'
+global.nameown = '「goku」'
 
 /*Watermark*/
 global.wm = '❖ 𝗗𝗮𝗽𝗮-𝗕𝗢𝗧𝗭 | 𝘿𝙖𝙥𝙖 𝙈𝙖𝙠𝙚𝙧 ❖'
